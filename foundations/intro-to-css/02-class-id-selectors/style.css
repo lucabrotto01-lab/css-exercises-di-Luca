@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.simple {
+    background-color: #f56e6e;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#unique-id {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.diff {
+    font-size: 24px;
+}
+
+#second-id {
+    background-color: rgba(0, 255, 0, 0.4);
+    font-weight: 800;
+}
